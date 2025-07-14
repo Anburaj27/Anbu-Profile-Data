@@ -1,0 +1,24 @@
+{
+    "experiences": [
+        {
+            "title": " Software Engineer",
+            "subtitle": " Smount Tech Pvt Ltd",
+            "workType": " Full-time",
+            "workDescription": [
+                " Worked on React Project"
+                
+            ],
+            "dateText": "10/2024 – Present"
+        },
+        {
+            "title": " Python Full Stack Developer ",
+            "subtitle": " Besent Technologies",
+            "workType": " Internship",
+            "workDescription": [
+                " Worked on Python using Project Bus Booking ."
+            ],
+            "dateText": "08/2023 – 03/2024"
+        }
+  
+    ]
+}

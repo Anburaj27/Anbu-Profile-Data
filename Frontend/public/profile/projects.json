@@ -1,0 +1,65 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Real.png",
+            "title": "Nova Vista(Real Estate build house)",
+            "bodyText": "- Developed a Real Estate Web App to help users search, filter, and view properties in a specific location.\n -  Search properties by various filters (location, price range, property type, etc.)View properties on an interactive map.\n- User authentication (Sign-up/login for users).\n - Contact form for inquiries .",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Anburaj27/House"
+                }
+               
+            ],
+            "tags" : [
+                "React",
+              
+                "JavaScript",
+                "Node Js",
+                "MongoDb"
+            ]
+        },
+        {
+            "image" : "images/projects/Social.png",
+            "title": "Snapsy -  Twitter Clone",
+            "bodyText": "-  Developed a Twitter-like clone to enable users to post tweets, follow/unfollow other users, like tweets, and interact with the platform in real-time.\n - User authentication (sign up, login).\n - Tweet creation, editing, and deletion.\n - Follow and unfollow users Real-time notifications (e.g., likes, retweets, follows) Like and retweet functionality .",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Anburaj27/Social"
+                }
+             
+            ],
+            "tags" : [
+                "React",
+                "Nodejs",
+                "Mysql"
+          
+                
+                
+            ]
+        },
+        {
+            "image" : "images/projects/Employee.png",
+            "title": "Schedule Management System",
+            "bodyText": "-  Developed an Employee Management System (EMS) to manage employee records, roles, and departments. The system allows for creating, updating, deleting, and viewing employee information.\n - Employee CRUD operations (Create, Read, Update, Delete). \n - Employee roles and departments management ,Employee performance tracking (leave management, salary details, etc.) .\n - Search and filter employees based on different criteria (name, role, department).\n - Authentication and authorization for admin and employee users .",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Anburaj27/EmployeeDetails"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Nodejs",
+                "Sql Server"
+            
+            ]
+        }
+    
+  
+       
+       
+      
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": " Jun 2021 - Jun 2023",
+            "cardTitle": " MCA",
+            "cardSubtitle":" Anna University ",
+            "cardDetailedText": " CGPA - 7.9",
+            "icon" : {
+                "src": "images/logo.png"
+            }
+        },
+        {
+            "title": " Jun 2018 - jun 2021",
+            "cardTitle": " B.sc Computer Science ",
+            "cardSubtitle":" Thiruvalluvar University",
+            "cardDetailedText": " CGPA - 7.2"
+        }
+    ]
+}
